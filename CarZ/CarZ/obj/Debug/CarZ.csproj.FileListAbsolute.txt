@@ -1,0 +1,7 @@
+C:\Users\prwdi\source\repos\CarZ\CarZ\bin\Debug\CarZ.exe.config
+C:\Users\prwdi\source\repos\CarZ\CarZ\bin\Debug\CarZ.exe
+C:\Users\prwdi\source\repos\CarZ\CarZ\bin\Debug\CarZ.pdb
+C:\Users\prwdi\source\repos\CarZ\CarZ\obj\Debug\CarZ.csprojAssemblyReference.cache
+C:\Users\prwdi\source\repos\CarZ\CarZ\obj\Debug\CarZ.csproj.CoreCompileInputs.cache
+C:\Users\prwdi\source\repos\CarZ\CarZ\obj\Debug\CarZ.exe
+C:\Users\prwdi\source\repos\CarZ\CarZ\obj\Debug\CarZ.pdb
